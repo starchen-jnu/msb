@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection-annalysis/collectionannalysis.iml" filepath="$PROJECT_DIR$/collection-annalysis/collectionannalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-annalysis/consumer/consumer.iml" filepath="$PROJECT_DIR$/collection-annalysis/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job/job.iml" filepath="$PROJECT_DIR$/job/job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job/job-executor.iml" filepath="$PROJECT_DIR$/job/job-executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/job/job-executor/jobexecutor.iml" filepath="$PROJECT_DIR$/job/job-executor/jobexecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msb.iml" filepath="$PROJECT_DIR$/msb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-annalysis/producer.iml" filepath="$PROJECT_DIR$/collection-annalysis/producer.iml" />
+    </modules>
+  </component>
+</project>
